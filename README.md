@@ -34,8 +34,8 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | Plugin | README | Version |
 | ------ | ------ | ------ |
 | Axios | [https://github.com/axios/axios][Plb] | ^0.18.0 |
-| Moment | [https://momentjs.com/][Plc] | ^2.22.2 |
-| Vue Slick | [https://github.com/staskjs/vue-slick][Plh] | ^1.1.13 |
+| Moment | [https://momentjs.com/][Plc] | ^2.23.0 |
+| Vue Slick | [https://github.com/staskjs/vue-slick][Plh] | ^1.1.15 |
 
 #### Building for source
 
