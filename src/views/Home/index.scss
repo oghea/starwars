@@ -1,0 +1,33 @@
+@import '~@/styles/variables';
+@import '~@/styles/mixins';
+
+.home {
+  height: 100vh;
+  // position: relative;
+  background-image: url('/img/background/home.jpg');
+  background-size: cover;
+
+  &__title {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    img {
+      
+    }
+  }
+
+  &__movie {
+    padding: 0 5%;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+  }
+}
+
+@include breakpoint(md) {
+  
+}
