@@ -21,7 +21,6 @@ Clone this repo and
 Install the dependencies and devDependencies then start the server.
 
 ```sh
-$ cd frontend
 $ npm install
 $ npm run serve
 ```
